@@ -1,5 +1,5 @@
 {
-  "name": "@znella/iconLib",
+  "name": "znellaicon",
   "version": "0.0.2",
   "description": "Icon automation workflow with Figma",
   "main": "dist/juuust-react-icon.cjs.js",
